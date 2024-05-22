@@ -15,3 +15,4 @@ print()
 #         j = target - nums[i]
 #         if (j in nums and nums.index(j) != i):
 #             return [i, nums.index(j)]
+# temp
