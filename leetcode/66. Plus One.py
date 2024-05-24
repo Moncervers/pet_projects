@@ -8,6 +8,7 @@ digits = [9, 9, 9, 9]
 #     result[i] = int(result[i])
 # print(result)
 
+# SOLUTION 2
 digits[-1] += 1
 i = -1
 while digits[i] == 10:
