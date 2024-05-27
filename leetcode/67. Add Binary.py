@@ -1,3 +1,5 @@
+a = input()
+b = input()
 aL, bL = -len(a), -len(b)
 i, carry, res = -1, 0, ""
 
